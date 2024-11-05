@@ -1,4 +1,4 @@
 # blockchain
 blockchain repo
 
-Hi there!
+CMD: go run blockchain.go
